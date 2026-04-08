@@ -1,10 +1,21 @@
 export default function Task({name, isDone}){
+    let myHtml;
     if(isDone === true){
-        return <p>{name} --- done</p>
+        myHtml = <p>{name} --- done</p>
     }else{
-        return <p>{name} --- kora dorkar</p>
+        myHtml = <p>{name} --- kora dorkar</p>
     }
+    return myHtml;
 }
+
+
+// export default function Task({name, isDone}){
+//     if(isDone === true){
+//         return <p>{name} --- done</p>
+//     }else{
+//         return <p>{name} --- kora dorkar</p>
+//     }
+// }
 
 
 // export default function Task({name, isDone}){
