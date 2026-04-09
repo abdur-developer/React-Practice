@@ -1,0 +1,15 @@
+.item{
+    border: 2px solid salmon;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.item img{
+    width: 100%;
+    display: block;
+    margin: 0 auto 5px;
+}
+.item h1{
+    font-size: 20px;
+    font-weight: 700;
+}
