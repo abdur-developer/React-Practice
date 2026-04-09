@@ -1,29 +1,16 @@
-import { useState } from 'react'
 import './App.css'
-import Dada from './Dada'
+import First from './First';
+import Tasbi from './Tasbi';
 
 function App() {
-  const address = "Dandapal, Debiganj, Panchagarh"
   return (
     <>
-      <Abdur startWith="Mr" endWith="Rahman"></Abdur>
-      <Dada msg="Kam kor!"></Dada>
-      <Contact number="01709409266" address={address}></Contact>
-      {/* <Contact number="01712345678" address="Dhaka, Bangladesh"></Contact> */}
+      {/* <First></First> */}
+      <Tasbi></Tasbi>
+      <hr style={{width: "100%", margin: "10px 0"}}/>
     </>
   )
 }
 
-function Abdur(props) {
-  return <h1>{props.startWith}. Abdur {props.endWith}</h1>
-}
-function Contact({number, address}) {
-  return (
-    <div className="contact">
-      <p>{number}</p>
-      <p>{address}</p>
-    </div>
-  )
-}
 
 export default App
