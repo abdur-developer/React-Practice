@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "img": "https://picsum.photos/300?text=Rolex+Submariner",
+    "price": 9500
+  },
+  {
+    "id": 2,
+    "name": "Omega Seamaster Diver 300M",
+    "img": "https://picsum.photos/300?text=Omega+Seamaster",
+    "price": 5200
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera",
+    "img": "https://picsum.photos/300?text=Tag+Heuer+Carrera",
+    "price": 4300
+  },
+  {
+    "id": 4,
+    "name": "Casio G-Shock GA-2100",
+    "img": "https://picsum.photos/300?text=Casio+GShock",
+    "price": 120
+  },
+  {
+    "id": 5,
+    "name": "Seiko Prospex Turtle",
+    "img": "https://picsum.photos/300?text=Seiko+Prospex",
+    "price": 450
+  },
+  {
+    "id": 6,
+    "name": "Citizen Eco-Drive Chandler",
+    "img": "https://picsum.photos/300?text=Citizen+EcoDrive",
+    "price": 180
+  },
+  {
+    "id": 7,
+    "name": "Patek Philippe Nautilus",
+    "img": "https://picsum.photos/300?text=Patek+Nautilus",
+    "price": 30000
+  },
+  {
+    "id": 8,
+    "name": "Audemars Piguet Royal Oak",
+    "img": "https://picsum.photos/300?text=AP+Royal+Oak",
+    "price": 28000
+  },
+  {
+    "id": 9,
+    "name": "Tissot PRX Quartz",
+    "img": "https://picsum.photos/300?text=Tissot+PRX",
+    "price": 395
+  },
+  {
+    "id": 10,
+    "name": "Hamilton Khaki Field",
+    "img": "https://picsum.photos/300?text=Hamilton+Khaki",
+    "price": 650
+  },
+  {
+    "id": 11,
+    "name": "Fossil Grant Chronograph",
+    "img": "https://picsum.photos/300?text=Fossil+Grant",
+    "price": 150
+  },
+  {
+    "id": 12,
+    "name": "Michael Kors Lexington",
+    "img": "https://picsum.photos/300?text=MK+Lexington",
+    "price": 250
+  },
+  {
+    "id": 13,
+    "name": "Apple Watch Series 9",
+    "img": "https://picsum.photos/300?text=Apple+Watch+S9",
+    "price": 399
+  },
+  {
+    "id": 14,
+    "name": "Samsung Galaxy Watch 6",
+    "img": "https://picsum.photos/300?text=Galaxy+Watch+6",
+    "price": 329
+  },
+  {
+    "id": 15,
+    "name": "Garmin Fenix 7",
+    "img": "https://picsum.photos/300?text=Garmin+Fenix+7",
+    "price": 699
+  },
+  {
+    "id": 16,
+    "name": "Breitling Navitimer",
+    "img": "https://picsum.photos/300?text=Breitling+Navitimer",
+    "price": 8500
+  },
+  {
+    "id": 17,
+    "name": "Longines Master Collection",
+    "img": "https://picsum.photos/300?text=Longines+Master",
+    "price": 2500
+  },
+  {
+    "id": 18,
+    "name": "Hublot Big Bang",
+    "img": "https://picsum.photos/300?text=Hublot+Big+Bang",
+    "price": 15000
+  },
+  {
+    "id": 19,
+    "name": "Invicta Pro Diver",
+    "img": "https://picsum.photos/300?text=Invicta+Pro+Diver",
+    "price": 90
+  },
+  {
+    "id": 20,
+    "name": "Timex Weekender",
+    "img": "https://picsum.photos/300?text=Timex+Weekender",
+    "price": 60
+  }
+]

@@ -1,0 +1,26 @@
+.watches{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    margin: 20px 5px;
+}
+.carts {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.carts img{
+    width: 70px;
+    border-radius: 10px;
+    margin: 3px;
+}
+.carts span{
+    padding: 5px;
+    background-color: blueviolet;
+    color: white;
+    font-weight: 600;
+    width: 100px;
+    font-size: 9px;
+    border-radius: 10px;
+    margin: 5px;
+}
